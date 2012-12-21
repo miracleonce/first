@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca8d752c-df80-4240-b38e-f3b240cd4ca2" name="Default" comment="move">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/text222.html" />
+    <list default="true" id="ca8d752c-df80-4240-b38e-f3b240cd4ca2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text222.html" afterPath="$PROJECT_DIR$/text222.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="first.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.js" changelist="ca8d752c-df80-4240-b38e-f3b240cd4ca2" time="1356070600180" ignored="false" />
-    <file path="/Dummy.txt" changelist="ca8d752c-df80-4240-b38e-f3b240cd4ca2" time="1356082033335" ignored="false" />
+    <file path="/Dummy.txt" changelist="ca8d752c-df80-4240-b38e-f3b240cd4ca2" time="1356082546410" ignored="false" />
     <file path="/first.iml" changelist="ca8d752c-df80-4240-b38e-f3b240cd4ca2" time="1356081284470" ignored="false" />
     <file path="/.gitignore" changelist="ca8d752c-df80-4240-b38e-f3b240cd4ca2" time="1356081791865" ignored="false" />
     <file path="$PROJECT_DIR$/test2.html" changelist="ca8d752c-df80-4240-b38e-f3b240cd4ca2" time="1356081312032" ignored="false" />
     <file path="$PROJECT_DIR$/../vie/README.md" changelist="ca8d752c-df80-4240-b38e-f3b240cd4ca2" time="1356082514894" ignored="false" />
     <file path="/README.md" changelist="ca8d752c-df80-4240-b38e-f3b240cd4ca2" time="1356082285696" ignored="false" />
     <file path="$PROJECT_DIR$/../vie/.gitignore" changelist="ca8d752c-df80-4240-b38e-f3b240cd4ca2" time="1356081791361" ignored="false" />
-    <file path="/text222.html" changelist="ca8d752c-df80-4240-b38e-f3b240cd4ca2" time="1356082529820" ignored="false" />
+    <file path="/text222.html" changelist="ca8d752c-df80-4240-b38e-f3b240cd4ca2" time="1356082582024" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +105,7 @@
       <file leaf-file-name="text222.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/text222.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="99" selection-end="99" vertical-scroll-proportion="0.72727275">
+            <state line="8" column="7" selection-start="114" selection-end="114" vertical-scroll-proportion="0.72727275">
               <folding />
             </state>
           </provider>
@@ -415,7 +414,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="move" />
+    <option name="LAST_COMMIT_MESSAGE" value="text222" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -432,6 +431,7 @@
     <MESSAGE value="revert" />
     <MESSAGE value="New changelist" />
     <MESSAGE value="move" />
+    <MESSAGE value="text222" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -462,7 +462,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/text222.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="99" selection-end="99" vertical-scroll-proportion="0.72727275">
+        <state line="8" column="7" selection-start="114" selection-end="114" vertical-scroll-proportion="0.72727275">
           <folding />
         </state>
       </provider>
